@@ -12,8 +12,8 @@ P1 taken high will display minutes
 P0 & P1 taken low will display seconds
 P3 taken high will display scrolling time
 
-All microbit work from the same code, and you have have as many as you want running at the same time but keep it to one master !
-It can take up to a minute for all the microbit to sort themsleves out from startup
+All micro:bits work from the same code, and you have have as many as you want running at the same time but keep it to one master !
+It can take up to a minute for all the micro:bits to sort themsleves out from startup
 
 ** updateing RTC time - have not written that code yet **
 Currently you have to do it manually by enabling the set_time call in
