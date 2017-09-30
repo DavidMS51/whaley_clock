@@ -15,4 +15,10 @@ P3 taken high will display scrolling time
 All micro:bits work from the same code, and you have have as many as you want running at the same time but keep it to one master !
 It can take up to a minute for all the micro:bits to sort themsleves out from startup
 
+
 ** updateing RTC time - now added
+
+To set the RTC hold button A (on the micro:bit with the RTC connected) at reset until clock apears 
+- use button a to advance hours
+- use button b to advance minutes
+Hold button a & b down at the same time to write the new time to the RTC
